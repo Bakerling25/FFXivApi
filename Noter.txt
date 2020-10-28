@@ -1,0 +1,22 @@
+-ClientSideProgrammering
+	-Design
+		:
+
+Hvad skal emnet være?
+	-Final Fantasy xiv
+		-Class guide
+		-Job Guide
+		-free Company (The Derps "House Of UwU") {Alle medlemmer} 
+		-John L'Bob 
+
+Brug af api "xivapi.com"
+	-Skal bruges i sammenhæng med FC og member udtræking, så det kan vises på siden.
+
+Login mulighed med sign up
+	-"TBD"
+
+
+nummer 67
+
+
+		

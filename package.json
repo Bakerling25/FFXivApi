@@ -1,8 +1,16 @@
 {
     "name": "HTML5Application",
     "version": "1.0.0",
-    "keywords": ["util", "functional", "server", "client", "browser"],
+    "keywords": [
+        "util",
+        "functional",
+        "server",
+        "client",
+        "browser"
+    ],
     "author": "Thomas",
     "contributors": [],
-    "dependencies": {}
+    "dependencies": {
+        "xivapi-js": "^0.3.0"
+    }
 }

@@ -1,5 +1,4 @@
-const XIVAPI = require('C:\Users\Thomas\node_modules\xivapi-js');//mangler at lave denne path rigtig.
-
+const XIVAPI = require('xivapi-js');
 const xiv = new XIVAPI({
   private_key: 'someKey',
   language: 'en',
@@ -12,8 +11,10 @@ const getMembers = async () => {
   let res = await xiv.freecompany.search();
   //get the FC ID
   let id = res.Results[0].ID;
+  
 
   //get and return fc members
   let fc = await xiv.freecompany.get();
   return fc.FreeCompanyMembers;
 };
+
