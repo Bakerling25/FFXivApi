@@ -11,6 +11,7 @@
     "author": "Thomas",
     "contributors": [],
     "dependencies": {
+        "axios": "^0.21.0",
         "xivapi-js": "^0.3.0"
     }
 }

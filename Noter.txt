@@ -7,7 +7,7 @@ Hvad skal emnet være?
 		-Class guide
 		-Job Guide
 		-free Company (The Derps "House Of UwU") {Alle medlemmer} 
-		-John L'Bob 
+		-John L'Bob (View Character)
 
 Brug af api "xivapi.com"
 	-Skal bruges i sammenhæng med FC og member udtræking, så det kan vises på siden.
